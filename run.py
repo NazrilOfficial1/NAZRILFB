@@ -266,7 +266,7 @@ def menu(my_name,my_id):
 	os.system('clear')
 	banner()
 	ip = requests.get("https://api.ipify.org").text
-	au='[-] AUTHOR : ILMAN RAMDHANI RAHMAN\n[-] FACEBOOK : Ilman Ramdhani Rahman\n[-] INSTAGRAM : ilmaanramdhanirahman\n[-] WHATSAPP : 088971857667\n[-] GITHUB : IlmanRamdhaniR'                                             
+	au='[-] AUTHOR : NAZRIL XD\n[-] FACEBOOK : Nazril Ganz\n[-] INSTAGRAM :-\n[-] WHATSAPP : 08---\n[-] GITHUB : NazrilOfficial1'                                             
 	pengembang1=nel(au,style="cyan")
 	cetak(nel(pengembang1, title='[purple]AUTHOR INFORMATION'))
 	cetak(nel('WELCOME : %s I HOPE YOU ARE ALWAYS HAPPY :)'%(my_name)))
